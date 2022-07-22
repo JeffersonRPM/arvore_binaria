@@ -1,0 +1,14 @@
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\bin\Debug\Arvores.exe.config
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\bin\Debug\Arvores.exe
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\bin\Debug\Arvores.pdb
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\obj\Debug\Arvores.csprojAssemblyReference.cache
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\obj\Debug\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\obj\Debug\Arvores.exe
+C:\Users\yasmi\Documents\Engenharia da Computação\3° Semestre\Estrutura de Dados\Arvores\Arvores\obj\Debug\Arvores.pdb
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\bin\Debug\Arvores.exe.config
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\bin\Debug\Arvores.exe
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\bin\Debug\Arvores.pdb
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\obj\Debug\Arvores.csproj.AssemblyReference.cache
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\obj\Debug\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\obj\Debug\Arvores.exe
+C:\Users\NAPEXZ\Desktop\Arvores\Arvores\obj\Debug\Arvores.pdb
